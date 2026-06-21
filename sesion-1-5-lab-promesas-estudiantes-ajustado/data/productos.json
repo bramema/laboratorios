@@ -1,0 +1,32 @@
+{
+  "productos": [
+    {
+      "id": 101,
+      "nombre": "Mouse inalambrico",
+      "categoria": "Accesorios",
+      "precio": 55000,
+      "stock": 14
+    },
+    {
+      "id": 102,
+      "nombre": "Teclado mecanico",
+      "categoria": "Accesorios",
+      "precio": 180000,
+      "stock": 5
+    },
+    {
+      "id": 103,
+      "nombre": "Monitor 24 pulgadas",
+      "categoria": "Pantallas",
+      "precio": 720000,
+      "stock": 2
+    },
+    {
+      "id": 104,
+      "nombre": "Base refrigerante",
+      "categoria": "Accesorios",
+      "precio": 95000,
+      "stock": 0
+    }
+  ]
+}
