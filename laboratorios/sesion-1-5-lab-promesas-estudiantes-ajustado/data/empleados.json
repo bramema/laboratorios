@@ -1,0 +1,36 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Laura",
+      "apellido": "Gomez",
+      "cargo": "Desarrolladora Junior",
+      "area": "Tecnologia",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos",
+      "apellido": "Rojas",
+      "cargo": "Analista de Soporte",
+      "area": "Operaciones",
+      "activo": true
+    },
+    {
+      "id": 3,
+      "nombre": "Ana",
+      "apellido": "Martinez",
+      "cargo": "Disenadora UI",
+      "area": "Producto",
+      "activo": false
+    },
+    {
+      "id": 4,
+      "nombre": "Pedro",
+      "apellido": "Sanchez",
+      "cargo": "QA Tester",
+      "area": "Calidad",
+      "activo": true
+    }
+  ]
+}

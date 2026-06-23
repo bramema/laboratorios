@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Teclado mecánico",
+    "precio": 180000,
+    "estado": "Disponible"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse inalámbrico",
+    "precio": 85000,
+    "estado": "Disponible"
+  },
+  {
+    "id": 3,
+    "nombre": "Monitor 24 pulgadas",
+    "precio": 620000,
+    "estado": "Disponible"
+  }
+]
